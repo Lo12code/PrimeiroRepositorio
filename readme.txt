@@ -1,1 +1,1 @@
-This is just a repository to post my first scripts
+This is just a repository to post my first scripts.
