@@ -4,7 +4,7 @@
 _start:
 	mov r7, #0x4
 	mov r0, #2
-	ldr r1 =message
+	ldr r1, =message
 	mov r2, #13
 	swi 0
 
